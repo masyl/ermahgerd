@@ -1,6 +1,6 @@
 {
   "name": "nurunworkshop.ermahgerd",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "main": ["nurunworkshop.ermahgerd.jquery.js"],
   "ignore": [
     "**/.*",
