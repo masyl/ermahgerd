@@ -1,0 +1,10 @@
+{
+  "name": "ermahgerd",
+  "version": "0.0.0",
+  "main": "nurunworkshop.ermahgerd.jquery.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
